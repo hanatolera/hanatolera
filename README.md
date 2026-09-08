@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hana Tolera
 
-<!--
-**hanatolera/hanatolera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student studying Applied Computer Science. I enjoy learning about software development, databases, and technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Graduate student in Applied Computer Science
+-  Interested in software development and technology
+-  Currently expanding my programming skills
+-  
+## My Projects
+
+[View my practice-tolera repository](https://github.com/hanatolera/practice-tolera)
